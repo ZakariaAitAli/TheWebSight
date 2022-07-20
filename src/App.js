@@ -17,6 +17,7 @@ function App() {
         <Lights />
         <Environment />
     </Canvas>
+    {/* <Section></Section> */}
     </>
   );
 }
